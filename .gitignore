@@ -1,0 +1,17 @@
+GPATH
+GRTAGS
+GTAGS
+TAGS
+Makefile
+Makefile.in
+.deps
+.libs
+*.pc
+*.pyc
+*.bz2
+*.rpm
+*.la
+*.lo
+*.o
+*~
+*.swp
